@@ -27,7 +27,6 @@ export class RegisterComponent {
       status: ['']
     });
   }
-//Task no 1001
   register(): void {
     if (this.registerForm.valid) {
       this.authService.register(this.registerForm.value).subscribe(res=>{
