@@ -1,0 +1,17 @@
+
+.btn-block {
+  text-align: right;
+  .logOut{
+    background-color: red;
+    color: white;
+  }
+}
+.dashboard-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  div{
+    margin-top: 20%;
+  }
+}

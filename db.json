@@ -1,0 +1,51 @@
+{
+  "userData": [
+    {
+      "id": "d876",
+      "name": "ram",
+      "email": "vitthal@tmaioll.com",
+      "password": "kjahsdk",
+      "phoneNumber": "3984934",
+      "status": "Inactive"
+    },
+    {
+      "id": "81d8",
+      "name": "Vitthal Devidas Gadekar",
+      "email": "gadekarvitthal2@gmail.com",
+      "password": "343434",
+      "phoneNumber": "07219039013",
+      "status": "Active"
+    },
+    {
+      "id": "a562",
+      "name": "asdklfj",
+      "email": "lkasjdlkfs@gmail.com",
+      "password": "asdlkfjlsd",
+      "phoneNumber": "8374834",
+      "status": "Active"
+    },
+    {
+      "id": "16d9",
+      "name": "csdasd",
+      "email": "asdfsd@gmaiolcom",
+      "phoneNumber": "jakshdkf",
+      "status": "Inactive"
+    },
+    {
+      "id": "4d3b",
+      "name": "Vedant",
+      "email": "vedant@gmail.com",
+      "password": "dslkfjls",
+      "phoneNumber": "07219039013",
+      "status": "Active"
+    },
+    {
+      "name": "vedant",
+      "email": "vedant@gmail.com",
+      "password": "123456",
+      "phoneNumber": "544559566",
+      "status": "Active",
+      "id": "rHOMgkl"
+    }
+  ]
+}

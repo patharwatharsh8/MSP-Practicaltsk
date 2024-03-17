@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+// .custom-dialog-container {
+//   z-index: 1500 !important;
+// }
+
+::ng-deep .mat-dialog-container {
+  position: absolute !important;
+  top: 10% !important;
+  left: 20% !important;
+  // transform: translate(-50%, -50%);
+}

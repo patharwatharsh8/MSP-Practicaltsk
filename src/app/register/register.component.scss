@@ -1,0 +1,32 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+
+  form {
+    column-gap: 2px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 50px;
+    background: lemonchiffon;
+    border-radius: 25px;
+
+    h1{
+      text-align: center;
+    }
+
+    mat-form-field {
+      width: 40vw;
+
+      mat-error {
+        color: red;
+      }
+    }
+    button {
+      cursor: pointer;
+    }
+  }
+}

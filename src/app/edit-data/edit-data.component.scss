@@ -1,0 +1,28 @@
+.close-icon-container {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  font-size: 25px;
+  height: 40px;
+  text-align: right;
+  button {
+    border: none;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px;
+    mat-icon {
+      font-size: 23px;
+      width: 100%;
+      height: 31px;
+      color: #091871;
+    }
+  }
+}
+
+::ng-deep .mat-mdc-dialog-container {
+  position: absolute !important;
+  top: 10% !important;
+  left: 5% !important;
+}
